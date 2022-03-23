@@ -1,0 +1,11 @@
+
+
+so far we learned some git stuff here and there 
+
+commit --> pushc
+
+and 
+
+remote --> local
+pull/update 
+
