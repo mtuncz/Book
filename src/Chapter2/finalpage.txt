@@ -2,7 +2,7 @@
 
 so far we learned some git stuff here and there 
 
-commit --> push
+commit --> push up bro
 
 and 
 
